@@ -1,7 +1,8 @@
 package aspects;
 
 public aspect FirstAspect {
-    pointcut pc1():execution( * org.example.Main.main(..));
+    // method nexiste pqs pour se focqliser juste les qutre meth
+    pointcut pc1():execution( * org.example.Main.man(..));
 
   /*  before():pc1(){
         System.out.println("--------------------------------------------");

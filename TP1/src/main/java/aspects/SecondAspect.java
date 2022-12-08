@@ -5,7 +5,7 @@ import org.aspectj.lang.annotation.*;
 
 @Aspect
 public class SecondAspect {
-  @Pointcut("execution(* *.main(..))")
+  @Pointcut("execution(* *.mai(..))")
     public  void pc1(){
 
   }

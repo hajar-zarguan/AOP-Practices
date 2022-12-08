@@ -12,6 +12,14 @@ public class Compte {
     public Compte() {
     }
 
+    @Override
+    public String toString() {
+        return "Compte{" +
+                "code=" + code +
+                ", solde=" + solde +
+                '}';
+    }
+
     public Long getCode() {
         return code;
     }

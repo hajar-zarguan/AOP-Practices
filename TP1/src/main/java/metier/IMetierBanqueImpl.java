@@ -24,6 +24,8 @@ public class IMetierBanqueImpl implements IMetierBanque {
         compte.setSolde(compte.getSolde()-montant);
     }
 
+
+
     @Override
     public Compte consulter(Long code) {
         return compteMap.get(code);
