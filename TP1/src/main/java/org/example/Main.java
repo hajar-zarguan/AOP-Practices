@@ -25,7 +25,11 @@ public class Main {
                 String type = scanner.next();
                 System.out.println("Montant");
                 double montant = scanner.nextDouble();
-                if(type.equals("v")){
+
+                if (type.equals("q")){
+                  break;
+                }
+                else  if(type.equals("v")){
                     metierBanque.verser(code, montant);
                 }
                 else if (type.equals("r")){
