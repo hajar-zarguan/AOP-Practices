@@ -55,5 +55,13 @@
 
 
 
+# Use case
+### La structure du projet et linterface IMetierBanque 
+
+![image](https://user-images.githubusercontent.com/82539023/206582477-a756c493-6635-4839-8bd2-5d8d6e160e0a.png)
+
+### L'execution du logique metier
+![image](https://user-images.githubusercontent.com/82539023/206582267-61342448-41d1-447c-9626-5bf01700c883.png)
+
 
 
