@@ -22,7 +22,7 @@ public aspect FirstAspect {
         System.out.println("--------------------------------------------");
         System.out.println("around main from AspectJ with AspectJ syntax");
         System.out.println("--------------------------------------------");
-         proceed();
+        proceed();
         System.out.println("--------------------------------------------");
         System.out.println("around main from AspectJ with AspectJ syntax");
         System.out.println("--------------------------------------------");
