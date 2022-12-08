@@ -37,10 +37,12 @@ Lutilisation du Asj compiler
 
 ![image](https://user-images.githubusercontent.com/82539023/206556619-d20c0550-27ce-4d12-b01e-7198be1cfd19.png)
 
-
 Le resultat 
 ![image](https://user-images.githubusercontent.com/82539023/206557492-8b449213-04b8-4655-b4ff-5ab9a0043332.png)
 
+Execution de around 
+
+![Uploading image.png…]()
 
 
 
