@@ -36,7 +36,7 @@ public class Main {
                     metierBanque.retirer(code, montant);
                 }
                 Compte compte = metierBanque.consulter(code);
-                System.out.println("Etqt du compte = "+compte);
+                System.out.println("Etat du compte = "+compte);
 
             }catch (Exception e){
 
