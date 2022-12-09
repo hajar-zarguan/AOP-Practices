@@ -72,5 +72,16 @@ lutilisation de Logger
 ![image](https://user-images.githubusercontent.com/82539023/206734752-4e540fcb-5f49-4da2-a09d-e871c2d3509e.png)
 
 Sauvegarde dans un fichier XML 
+![image](https://user-images.githubusercontent.com/82539023/206747523-17a5413e-3e25-4ada-be46-1415411b6242.png)
 
-![image](https://user-images.githubusercontent.com/82539023/206735897-fc35febe-0b1b-4bcc-943e-f37054b6b01f.png)
+### Patch Retrait Aspect
+
+![image](https://user-images.githubusercontent.com/82539023/206750266-61519856-b7b0-4b4d-a3ed-7e0a51ef4da9.png)
+
+
+### Security aspect
+
+L'execution 
+![image](https://user-images.githubusercontent.com/82539023/206752573-8e01055d-aac4-4454-8e4b-931a2d099dce.png)
+
+
