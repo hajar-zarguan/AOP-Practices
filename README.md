@@ -63,5 +63,7 @@
 ### L'execution du logique metier
 ![image](https://user-images.githubusercontent.com/82539023/206582267-61342448-41d1-447c-9626-5bf01700c883.png)
 
+Logging aspect execution
 
+![image](https://user-images.githubusercontent.com/82539023/206733832-9b8d12ca-41b3-4b05-b932-6ab5b82027a0.png)
 
