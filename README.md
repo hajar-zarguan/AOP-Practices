@@ -67,3 +67,10 @@ Logging aspect execution
 
 ![image](https://user-images.githubusercontent.com/82539023/206733832-9b8d12ca-41b3-4b05-b932-6ab5b82027a0.png)
 
+lutilisation de Logger
+
+![image](https://user-images.githubusercontent.com/82539023/206734752-4e540fcb-5f49-4da2-a09d-e871c2d3509e.png)
+
+Sauvegarde dans un fichier XML 
+
+![image](https://user-images.githubusercontent.com/82539023/206735897-fc35febe-0b1b-4bcc-943e-f37054b6b01f.png)
