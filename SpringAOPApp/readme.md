@@ -13,3 +13,8 @@ Lutilisation du Logger
 
 ![image](https://user-images.githubusercontent.com/82539023/209165817-de4574c4-bf2b-470c-8a89-6dd90673b421.png)
 
+L'annotation Log
+
+![image](https://user-images.githubusercontent.com/82539023/209168626-a2a5fe42-9729-4d28-a77d-09527b4d2266.png)
+
+
