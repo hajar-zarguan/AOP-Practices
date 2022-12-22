@@ -18,3 +18,12 @@ L'annotation Log
 ![image](https://user-images.githubusercontent.com/82539023/209168626-a2a5fe42-9729-4d28-a77d-09527b4d2266.png)
 
 
+Accee nest pas authorisee pour un simple utilisateur
+
+![image](https://user-images.githubusercontent.com/82539023/209189434-f8c0194a-f539-4e48-beab-54cff4af9be5.png)
+
+![image](https://user-images.githubusercontent.com/82539023/209190765-04792ac8-cf3e-4214-85e4-2106dfcc385e.png)
+
+Class de config 
+
+![image](https://user-images.githubusercontent.com/82539023/209192780-b284458f-e648-42de-8fec-765d6889f573.png)
