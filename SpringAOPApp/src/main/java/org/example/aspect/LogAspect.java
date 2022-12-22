@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 public class LogAspect {
     @Before("execution(public  void  process())")
     public void log (){
-        System.out.println("From Logging Aspects.....");
+        System.out.println("From Logging Aspects.....Before");
     }
 
 }

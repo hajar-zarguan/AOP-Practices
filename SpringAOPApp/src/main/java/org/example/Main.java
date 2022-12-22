@@ -11,6 +11,9 @@ public class Main {
         ApplicationContext applicationContext=
                 new AnnotationConfigApplicationContext("org.example.service", "org.example.aspect");
         IMetier metier = applicationContext.getBean(IMetier.class);
+        System.out.println("*********************");
+        System.out.println(metier.getClass().getName());
+        System.out.println("**********************");
         metier.process();
         System.out.println(metier.compute());
     }
