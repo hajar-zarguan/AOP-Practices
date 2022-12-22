@@ -1,8 +1,7 @@
 package org.example.aspect;
 
 import org.aspectj.lang.ProceedingJoinPoint;
-import org.aspectj.lang.annotation.Around;
-import org.aspectj.lang.annotation.Aspect;
+import org.aspectj.lang.annotation.*;
 import org.example.service.SecurityContext;
 import org.springframework.context.annotation.EnableAspectJAutoProxy;
 import org.springframework.stereotype.Component;
@@ -25,9 +24,10 @@ public class AuthorizationAspect {
        Object result = pjp.proceed();
        return result;
     }
-    throw new RuntimeException("Unauthorized=>430");
-
-
+    throw new RuntimeException("Unauthorized=>430 to access ="+pjp.getSignature());
+}
+/*@AfterThrowing()
+ public void ex(Exception e)
+*/
 }
 
-}
