@@ -8,3 +8,8 @@
 L'execution de Around
 
 ![image](https://user-images.githubusercontent.com/82539023/209164555-0a2cc4be-c966-44b8-8779-a9a4a8d7ca5c.png)
+
+Lutilisation du Logger
+
+![image](https://user-images.githubusercontent.com/82539023/209165817-de4574c4-bf2b-470c-8a89-6dd90673b421.png)
+
