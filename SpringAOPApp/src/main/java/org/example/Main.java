@@ -5,7 +5,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 
-@ComponentScan(value = {"org.example.service", "org.example.aspect"})
+@ComponentScan(value = {"org.example"})
 public class Main {
     public static void main(String[] args) {
         ApplicationContext applicationContext=

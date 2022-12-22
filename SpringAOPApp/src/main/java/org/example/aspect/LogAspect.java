@@ -14,7 +14,7 @@ import java.util.logging.Logger;
 @Aspect
 public class LogAspect {
     Logger logger = Logger.getLogger(LogAspect.class.getName());
-    @Around("execution(* org.example.service..*(..))")
+    @Around("@annotation(org.example.aspect.Log)")
     public Object log (ProceedingJoinPoint proceedingJoinPoint) throws Throwable {
         long t1 = System.currentTimeMillis();
         logger.info("From Logging Aspects.....Before "+ proceedingJoinPoint.getSignature());
